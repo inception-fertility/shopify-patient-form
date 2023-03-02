@@ -1,0 +1,13 @@
+body {
+    padding-top: 3rem;
+}
+
+img {
+    display: block;
+    margin-inline: auto;
+}
+
+iframe {
+    overflow: hidden;
+    border: none;;
+}
